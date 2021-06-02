@@ -1,0 +1,30 @@
+.menu1 {
+    right: 350px;
+    list-style: none;
+    top: 10px;
+    cursor: pointer;
+    color: white;
+    position: absolute;
+    z-index: 10px;
+    background-color: black;
+}
+
+.links {
+    padding-left: 9px;
+    padding-top: 5px;
+    padding-right: 9px;
+    font-size: 20px;
+    float: right;
+}
+
+.links:hover {
+    background-color: aqua;
+    text-decoration: none;
+
+}
+img{
+    height: 200px;
+    width: 200px;
+    
+}
+
